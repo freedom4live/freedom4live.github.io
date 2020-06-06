@@ -1,0 +1,4 @@
+baseURL = "https://freedom4live.github.com/"
+languageCode = "en-us"
+title = "Novikov Aleksei's Blog"
+theme = "ananke"
